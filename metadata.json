@@ -1,0 +1,6 @@
+{
+  "name": "VibeMate — Your Space. Your Vibe.",
+  "description": "A premium, production-ready AI companion for everyday conversation, study support, and creative brainstorming powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
